@@ -2,11 +2,11 @@
 
 ## Perosnal Information
 
--Matthew Polydorou 
--S 3885704
--Matthew.Polydorou@student.RMIT.edu.au
--Nationality: Australian
--Education: yr12  
+- Matthew Polydorou 
+- S 3885704
+- Matthew.Polydorou@student.RMIT.edu.au
+- Nationality: Australian
+- Education: yr12  
 
 ## Interest in IT
 
