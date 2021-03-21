@@ -12,37 +12,38 @@ Education: yr12
 
 My interest with IT started at a young age. I grew up at a time when information technology was becoming more central to everyday life and effectively changed our lifestyle. When I started school every student had to use the computer room for online tasks and towards to end of my schooling, every student had a laptop as part of their education. We used to rent movies from a store, now we can instantly stream movies from the comfort of our home (RIP BlockBuster). The introduction of the IPhone and the creation of facebook allowed us to connect and communicate with people all around the world.  I was intrigued by the power of Information technology and how it was shaping our future.
 
-Doing Multimedia in high school was my first real experience of IT, I made a short film as part of my major project. As I joined the work force I began using word processing software as part of my role as well as using collaborative software when working with a team.   
+Doing Multimedia in high school was my first real experience of IT, I made a short film as part of my major project. As I joined the work force I began using word processing software as part of my role as well as using collaborative software when working in a team.   
 
+I chose to study with RMIT because it allows me to gain new skills that will help me with transitioning into the workforce. The unviersity is a leader in design and technology teaching with opportunities for student to gain industry experience.   
 
-I wanted to further my knowledge and skills in IT and 
-Best opportunity to enter the workforce with the level of knowledge needed.
-Tailored study options which allows me to continue working while investing in myself through further education 
-The reputation of the university as a young and ever evolving uni leading the way in technology teaching. 
+Through my studies I hope to learn about programming and other important skills in the role of an IT professional. I’m looking to gain a greater understanding of systems, hardware, software, data, networks, security and how they all work. Additionally, I’m interested in learning about new concepts and topics that I didn’t know about previously such as Artificial Intelligence and robotics.
+
 
 ## My Ideal IT job
 
 https://www.seek.com.au/job/51575456?type=standout#searchRequestToken=c9736995-23c3-4ec5-abcc-50fee4edfa13
 
-
-My ideal job would be a software developer.
-
-Descript  of position and what makes it appealing
+**My ideal job would be a software developer.
+**
 
 The position involves working with a development team to create and maintain new products for the business. This includes existing products which are educational games geared towards school age children. As an app developer, the role is to create software which meets the requirements and ramifications intended. In this case to to educate children and deliver this in an engaging way. Another important component for the role is the use of Unity which is a gaming engine used to develop the product.
 
 To succeed in the role the candidate will need to demonstrate a strong understanding of C# and unity game engine. this can be further shown by having 3 years’ experience in programming as well as projects that demonstrate previous work. Furthermore the candidate will need to be able to work independently and exhibit a problem solving mindset. Additionally, having a qualification in IT or related field will assist the candidate with the knowledge and skills for the role.
 
-I am currently learning programming as a beginner and have 
-Dfd
+I am currently learning programming as a beginner and learning about the tools need for
 
 A plan for how I am going to get these skills and qual exp 
 Dfddfdf
 
 ## Personal Profile
 
+**Learning style**
+.Auditory: 25%
+.Visual: 30%
+.Tactile: 45%
 
-
+**personality type**
+ISTJ:Logistician
 
 
 ## My IT Project 
@@ -84,7 +85,6 @@ the successful product will be able to minimise the dangers of login security th
 
 
 
-Through my studies I hope to learn about programming and other important skills in the role of an IT professional. I’m looking to gain a greater understanding of systems, hardware, software, data, networks, security and how they all work. Additionally, I’m interested in learning about new concepts and topics that I didn’t know about previously such as Artificial Intelligence and robotics.
 
 
 
@@ -95,13 +95,10 @@ Through my studies I hope to learn about programming and other important skills 
 
 
 
-You can use the [editor on GitHub](https://github.com/Mattypoly/Mattypoly.github.io./edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 
-My interest with IT started at a young age. I grew up at a time when information technology was becoming more central to everyday life and effectively changed our lifestyle. When I started school every student had to use the computer room for online tasks and towards to end of my schooling, every student had a laptop as part of their education. We used to rent movies from a store, now we can instantly stream movies from the comfort of our home (RIP BlockBuster). The introduction of the IPhone and the creation of facebook allowed us to connect and communicate with people all around the world.  I was intrigued by the power of Information technology and how it was shaping our future.
 
 
 
@@ -109,137 +106,6 @@ My interest with IT started at a young age. I grew up at a time when information
 
 
 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mattypoly/Mattypoly.github.io./settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.jfjjjjjfjfjfjjfjdjfjdjfdjfjdf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-dfdf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d
-fdfd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-dfdfd
 
 ### Support or Contact
 
