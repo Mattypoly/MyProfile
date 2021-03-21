@@ -23,17 +23,15 @@ Through my studies I hope to learn about programming and other important skills 
 
 https://www.seek.com.au/job/51575456?type=standout#searchRequestToken=c9736995-23c3-4ec5-abcc-50fee4edfa13
 
-**My ideal job would be a software developer.
-**
+My ideal job would be a software developer.
 
 The position involves working with a development team to create and maintain new products for the business. This includes existing products which are educational games geared towards school age children. As an app developer, the role is to create software which meets the requirements and ramifications intended. In this case to to educate children and deliver this in an engaging way. Another important component for the role is the use of Unity which is a gaming engine used to develop the product.
 
 To succeed in the role the candidate will need to demonstrate a strong understanding of C# and unity game engine. this can be further shown by having 3 years’ experience in programming as well as projects that demonstrate previous work. Furthermore the candidate will need to be able to work independently and exhibit a problem solving mindset. Additionally, having a qualification in IT or related field will assist the candidate with the knowledge and skills for the role.
 
-I am currently learning programming as a beginner and learning about the tools need for
+I am currently learning programming as a beginner and learning about the tools used by IT professionals. I have been apart of group tasks in the workplace before and have led group meetings through microsoft teams.  
 
-A plan for how I am going to get these skills and qual exp 
-Dfddfdf
+I aim to get the knowledge and skills needed by investing time into learning about programming languages and practicing writing code. this includes spending time to learn the unity gaming engine and creating small projects to showcase new skills that I learn. additionally I want to finish completing my studies to gain the nessescary insight when joining the workforce. 
 
 ## Personal Profile
 
